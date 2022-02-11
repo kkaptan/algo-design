@@ -1,4 +1,4 @@
-# Alorithm Design Project
+# Algorithm Design Project
 
 This is a project heavily based on the book [Algorithm Design Manual](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) by Steven Skiena.
 
